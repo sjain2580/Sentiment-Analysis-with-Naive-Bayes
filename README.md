@@ -1,5 +1,5 @@
 # Sentiment Analysis on Movie Reviews
-
+![Cloudword](cloudword1.png)
 ## Overview
 
 This project demonstrates how to build a text classifier using the Naive Bayes algorithm to perform sentiment analysis on movie reviews. The objective is to classify a given review as either "positive" or "negative." This project is a great introduction to natural language processing (NLP) and text classification.
@@ -84,6 +84,7 @@ The project generates two types of visualizations:
 - Word Clouds: Word clouds are created for both "positive" and "negative" reviews to visually represent the most frequently occurring words in each class.
 
 - Distribution Plot: A bar plot is generated to show the frequency of the most common words across the entire dataset, providing insight into the overall vocabulary.
+![Distribution plot](plot.png)
 
 ## Contributors
 
